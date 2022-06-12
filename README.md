@@ -100,7 +100,7 @@ Contando con los rquerimientos anteriores, se procede a seguir las siguientes in
 
 
 [⚠](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento#importante)
-######<sub>[Volver al índice](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento#%C3%ADndice)<sub>
+###### <sub>[Volver al índice](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento#%C3%ADndice)<sub>
 
 
 ----
