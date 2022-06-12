@@ -184,7 +184,7 @@ Contando con los rquerimientos anteriores, se procede a seguir las siguientes in
 # **⚠Importante⚠** 
 ### Recordar eliminar el grupo de recursos que se creó en Azure para evitar costos extras no deseados en caso de no ocupar el servicio.
 Se puede hacer desde el panel de Azure en inicio y buscando el tipo de recurso que se llama **Grupo de Recursos**.
-######<sub>[Volver al índice](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento#%C3%ADndice)<sub>
+###### <sub>[Volver al índice](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento#%C3%ADndice)<sub>
 
 ## Hasta aquí la finalización de la práctica.
 
