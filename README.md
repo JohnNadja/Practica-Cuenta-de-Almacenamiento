@@ -50,6 +50,7 @@ Es un servicio [IaaS](https://azure.microsoft.com/es-mx/overview/what-is-iaas/#o
 -------
 ### Práctica Blob Storage
 ![storage-blob](https://github.com/JohnNadja/Practica-Cuenta-de-Almacenamiento/blob/main/images/storage-blob.png)
+
 El servicio de Blob Storage está implícito ya que está integrado al servicio de Cuenta de almacenamiento. 
 Contando con los rquerimientos anteriores, se procede a seguir las siguientes instrucciones: 
 ###### <sup>1
