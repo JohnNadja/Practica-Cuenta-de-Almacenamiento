@@ -71,7 +71,7 @@ Contando con los rquerimientos anteriores, se procede a seguir las siguientes in
         | Preferencia de enrutamiento | Seleccionamos la opción **Enrutamiento de red de Microsoft**.|
     
         - Pulsamos el botón de **Revisa y crear** para confirmar que todo esté correcto.
-        ![storage-acc1]() 
+        ![storage-acc1](/images/storage-acc1.gif) 
         - Pulsamos el botón de *Crear* y esperamos a que se cree la cuenta de almacenamiento (se notificará cuando esté listo).
         - Ingresamos al recurso recién creado (ya sea en la misma ventana o en la ventana de *Inicio* de Azure).
 
